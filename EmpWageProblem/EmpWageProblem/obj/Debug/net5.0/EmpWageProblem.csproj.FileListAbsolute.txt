@@ -1,0 +1,5 @@
+C:\Users\Rakesh\source\repos\FellowShip\EmpWageProblem\EmpWageProblem\obj\Debug\net5.0\EmpWageProblem.csproj.AssemblyReference.cache
+C:\Users\Rakesh\source\repos\FellowShip\EmpWageProblem\EmpWageProblem\obj\Debug\net5.0\EmpWageProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh\source\repos\FellowShip\EmpWageProblem\EmpWageProblem\obj\Debug\net5.0\EmpWageProblem.AssemblyInfoInputs.cache
+C:\Users\Rakesh\source\repos\FellowShip\EmpWageProblem\EmpWageProblem\obj\Debug\net5.0\EmpWageProblem.AssemblyInfo.cs
+C:\Users\Rakesh\source\repos\FellowShip\EmpWageProblem\EmpWageProblem\obj\Debug\net5.0\EmpWageProblem.csproj.CoreCompileInputs.cache
