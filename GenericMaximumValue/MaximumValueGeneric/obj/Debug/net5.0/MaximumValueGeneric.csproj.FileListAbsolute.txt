@@ -1,0 +1,16 @@
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\bin\Debug\net5.0\MaximumValueGeneric.exe
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\bin\Debug\net5.0\MaximumValueGeneric.deps.json
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\bin\Debug\net5.0\MaximumValueGeneric.runtimeconfig.json
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\bin\Debug\net5.0\MaximumValueGeneric.runtimeconfig.dev.json
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\bin\Debug\net5.0\MaximumValueGeneric.dll
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\bin\Debug\net5.0\ref\MaximumValueGeneric.dll
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\bin\Debug\net5.0\MaximumValueGeneric.pdb
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\MaximumValueGeneric.csproj.AssemblyReference.cache
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\MaximumValueGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\MaximumValueGeneric.AssemblyInfoInputs.cache
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\MaximumValueGeneric.AssemblyInfo.cs
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\MaximumValueGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\MaximumValueGeneric.dll
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\ref\MaximumValueGeneric.dll
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\MaximumValueGeneric.pdb
+C:\Users\Rakesh\source\repos\FellowShip\MaximumValueGeneric\MaximumValueGeneric\obj\Debug\net5.0\MaximumValueGeneric.genruntimeconfig.cache
