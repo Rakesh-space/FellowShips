@@ -64,7 +64,7 @@ namespace AddressBookSystem
             {
                 foreach (ContactList contactList in this.list)
                 {
-                    Console.WriteLine("FirstName= {contactList.firstName} LastName= {contactList.lastName} Address= {contactList.address} state= {contactList.state} ZipCode= {contactList.zipCode} Phone= {contactList.phoneNumber} Email= {contactList.email}");
+                    Console.WriteLine("FirstName= {contactList.firstName} LastName= {contactList.lastName} Address= {contactList.address} state= {contactList.state} ZipCode= {contactList.zipCode} Phone= {contactList.phoneNumber} Email= {contactList.email}", contactList.firstName, contactList.lastName, contactList.address, contactList.state, contactList.zipCode, contactList.phoneNumber, contactList.email);
 
                 }
             }
@@ -123,7 +123,7 @@ namespace AddressBookSystem
                         list.AddLast(contactList.email);
 
                         Console.WriteLine("\nupdeted details List:");
-                        Console.WriteLine("\nFirstName= {contactList.firstName}\n"+" LastName= {contactList.lastName}\n"+"Address= {contactList.address}\n"+"state= {contactList.state}\n"+" ZipCode= {contactList.zipCode}\n "+"Phone= {contactList.phoneNumber}\n"+"Email= {contactList.email}\n");
+                        Console.WriteLine("\nFirstName= {contactList.firstName}\n"+" LastName= {contactList.lastName}\n"+"Address= {contactList.address}\n"+"state= {contactList.state}\n"+" ZipCode= {contactList.zipCode}\n "+"Phone= {contactList.phoneNumber}\n"+"Email= {contactList.email}\n", contactList.firstName, contactList.lastName, contactList.address, contactList.state, contactList.zipCode, contactList.phoneNumber, contactList.email);
 
                     }
                     else

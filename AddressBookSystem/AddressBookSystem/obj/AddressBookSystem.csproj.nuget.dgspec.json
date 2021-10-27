@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\AddressBookSystem\\AddressBookSystem\\AddressBookSystem.csproj": {}
+    "C:\\Users\\Rakesh\\source\\repos\\FellowShips\\AddressBookSystem\\AddressBookSystem\\AddressBookSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\AddressBookSystem\\AddressBookSystem\\AddressBookSystem.csproj": {
+    "C:\\Users\\Rakesh\\source\\repos\\FellowShips\\AddressBookSystem\\AddressBookSystem\\AddressBookSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\AddressBookSystem\\AddressBookSystem\\AddressBookSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Rakesh\\source\\repos\\FellowShips\\AddressBookSystem\\AddressBookSystem\\AddressBookSystem.csproj",
         "projectName": "AddressBookSystem",
-        "projectPath": "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\AddressBookSystem\\AddressBookSystem\\AddressBookSystem.csproj",
+        "projectPath": "C:\\Users\\Rakesh\\source\\repos\\FellowShips\\AddressBookSystem\\AddressBookSystem\\AddressBookSystem.csproj",
         "packagesPath": "C:\\Users\\Rakesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\AddressBookSystem\\AddressBookSystem\\obj\\",
+        "outputPath": "C:\\Users\\Rakesh\\source\\repos\\FellowShips\\AddressBookSystem\\AddressBookSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rakesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
