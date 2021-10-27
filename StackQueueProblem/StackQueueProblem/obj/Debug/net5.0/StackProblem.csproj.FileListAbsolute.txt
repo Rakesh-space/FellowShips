@@ -1,0 +1,15 @@
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\bin\Debug\net5.0\StackProblem.exe
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\bin\Debug\net5.0\StackProblem.deps.json
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\bin\Debug\net5.0\StackProblem.runtimeconfig.json
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\bin\Debug\net5.0\StackProblem.runtimeconfig.dev.json
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\bin\Debug\net5.0\StackProblem.dll
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\bin\Debug\net5.0\ref\StackProblem.dll
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\bin\Debug\net5.0\StackProblem.pdb
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\obj\Debug\net5.0\StackProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\obj\Debug\net5.0\StackProblem.AssemblyInfoInputs.cache
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\obj\Debug\net5.0\StackProblem.AssemblyInfo.cs
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\obj\Debug\net5.0\StackProblem.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\obj\Debug\net5.0\StackProblem.dll
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\obj\Debug\net5.0\ref\StackProblem.dll
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\obj\Debug\net5.0\StackProblem.pdb
+C:\Users\Rakesh\source\repos\FellowShip\StackProblem\StackProblem\obj\Debug\net5.0\StackProblem.genruntimeconfig.cache
