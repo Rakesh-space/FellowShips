@@ -1,0 +1,16 @@
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\bin\Debug\net5.0\LinkeListProblem.exe
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\bin\Debug\net5.0\LinkeListProblem.deps.json
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\bin\Debug\net5.0\LinkeListProblem.runtimeconfig.json
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\bin\Debug\net5.0\LinkeListProblem.runtimeconfig.dev.json
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\bin\Debug\net5.0\LinkeListProblem.dll
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\bin\Debug\net5.0\ref\LinkeListProblem.dll
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\bin\Debug\net5.0\LinkeListProblem.pdb
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\LinkeListProblem.csproj.AssemblyReference.cache
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\LinkeListProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\LinkeListProblem.AssemblyInfoInputs.cache
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\LinkeListProblem.AssemblyInfo.cs
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\LinkeListProblem.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\LinkeListProblem.dll
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\ref\LinkeListProblem.dll
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\LinkeListProblem.pdb
+C:\Users\Rakesh\source\repos\FellowShip\LinkeListProblem\LinkeListProblem\obj\Debug\net5.0\LinkeListProblem.genruntimeconfig.cache
