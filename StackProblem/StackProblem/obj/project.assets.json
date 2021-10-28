@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\StackProblem\\StackProblem\\StackQueueProblem.csproj",
-      "projectName": "StackQueueProblem",
-      "projectPath": "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\StackProblem\\StackProblem\\StackQueueProblem.csproj",
+      "projectUniqueName": "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\StackProblem\\StackProblem\\StackProblem.csproj",
+      "projectName": "StackProblem",
+      "projectPath": "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\StackProblem\\StackProblem\\StackProblem.csproj",
       "packagesPath": "C:\\Users\\Rakesh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Rakesh\\source\\repos\\FellowShip\\StackProblem\\StackProblem\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StackQueueProblem
+namespace StackProblem
 {
     class Program
     {
@@ -24,10 +24,6 @@ namespace StackQueueProblem
               stackProblem.display();
               stackProblem.pop();
               stackProblem.display();*/
-
-          
-
-            Console.ReadLine();
         }
     }
 }

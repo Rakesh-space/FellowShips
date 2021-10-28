@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StackQueueProblem
+namespace StackProblem
 {
     class UC1StackProblem
     {
-        
         private Node top;  //Node type of top is variable 
 
         internal UC1StackProblem() //here constructor to initialize value to current instance top variable 
@@ -19,11 +18,7 @@ namespace StackQueueProblem
         {
             Node newNode = new Node(data);  //here newNode is created and to occuepied the memory and store the data
             if (this.top == null)
-            {
-                newNode.next = null; //newNode initialized to the null
-            }
-            else
-            {
+            { 
                 newNode.next = this.top;  //newNode point to the top of the stack
             }
             this.top = newNode;  //newNode to assigned to the top of stack

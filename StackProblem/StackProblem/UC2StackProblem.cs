@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StackQueueProblem
+namespace StackProblem
 {
     class UC2StackProblem
     {
@@ -20,10 +20,6 @@ namespace StackQueueProblem
             Node newNode = new Node(data);  //here newNode is created and to occuepied the memory and store the data
             if (this.top == null)
             {
-                newNode.next = null; //newNode initialized to the null
-            }
-            else
-            {
                 newNode.next = this.top;  //newNode point to the top of the stack
             }
             this.top = newNode;  //newNode to assigned to the top of stack
@@ -31,12 +27,12 @@ namespace StackQueueProblem
         }
         internal void peek()  //To dislay the top of the stack
         {
-            if(this.top == null)   
+            if (this.top == null)
             {
                 Console.WriteLine("\n Stack is empty..");
                 return;
             }
-            Console.WriteLine("\n {0} is top of the stack. ",this.top.data); //To dislay the top of the stack
+            Console.WriteLine("\n {0} is top of the stack. ", this.top.data); //To dislay the top of the stack
         }
 
         internal void pop()  //here delete the element into the top of the stack
@@ -46,7 +42,7 @@ namespace StackQueueProblem
                 Console.WriteLine("\n Stack is Empty, Stack of top Not delete.");
                 return;
             }
-            Console.WriteLine("\n Data popped {0} in Stack of top. ",this.top.data); //actual popped data display
+            Console.WriteLine("\n Data popped {0} in Stack of top. ", this.top.data); //actual popped data display
             this.top = this.top.next; //increment top of stack
         }
         internal void display()  //display the all stack of the data
@@ -58,7 +54,5 @@ namespace StackQueueProblem
                 temp = temp.next;
             }
         }
-
-     
     }
 }
