@@ -7,14 +7,14 @@ namespace QueueProblem
         static void Main(string[] args)
         {
             /* Console.WriteLine("\n UC1QueueProblem :");
-           UC3QueueProblem queueProblem = new UC3QueueProblem();
+           UC1QueueProblem queueProblem = new UC1QueueProblem();
            queueProblem.Enqueue(56);
            queueProblem.Enqueue(30);
            queueProblem.Enqueue(70);
            queueProblem.display();*/
 
             /*Console.WriteLine("\n UC2QueueProblem :");
-            UC4QueueProblem queueProblem = new UC4QueueProblem();
+            UC2QueueProblem queueProblem = new UC2QueueProblem();
             queueProblem.Enqueue(56);
             queueProblem.Enqueue(30);
             queueProblem.Enqueue(70);
